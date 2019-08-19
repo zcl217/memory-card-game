@@ -1,0 +1,17 @@
+.stat{
+  font-weight: bold;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.statsContainer{
+  font-weight: bold;
+  font-size: 1.2em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.red{
+  color: red;
+}

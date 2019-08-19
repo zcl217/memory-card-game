@@ -1,0 +1,78 @@
+.highScoresHeader{
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.restartGameButton{
+  background: linear-gradient(to bottom right, lightblue, #b0e5ff);
+  border-radius: 5px;
+  border: 2px solid black;
+  outline: 0;
+  cursor: pointer;
+  
+  font-weight: bold;
+  margin: 10px;
+  height: 10vh;
+}
+
+.restartGameButton:hover{
+  background: linear-gradient(to top left, lightblue, #b0e5ff);	
+}
+
+.replayGameButton{
+  background: linear-gradient(to bottom right, lightblue, #b0e5ff);
+  border-radius: 5px;
+  border: 2px solid black;
+  outline: 0;
+  cursor: pointer;
+  
+  font-weight: bold;
+  margin: 10px;
+  height: 10vh;
+}
+
+.replayGameButton:hover{
+  background: linear-gradient(to top left, lightblue, #b0e5ff);	
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.sortButton{
+  background: linear-gradient(to bottom right, lightblue, #b0e5ff);
+  border-radius: 8px;
+  outline: 0;
+  cursor: pointer;
+  
+  margin: 5px;
+}
+
+.sortButton:hover{
+  background: linear-gradient(to top left, lightblue, #b0e5ff);	
+}
+
+.sortButtonsContainer{
+  display: flex;
+  justify-content: center;
+}
+
+.selected{
+  border: 2px solid black;
+}
+
+ol {
+  margin-left: 40%;
+}
+
+li {
+  font-size: 1em;
+  font-weight: bold;
+}

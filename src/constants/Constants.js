@@ -1,7 +1,7 @@
 import * as types from './ActionTypes';
 
 export const timePerTurn = 20;
-export const cardNumber = 12;
+export const cardNumber = 10;
 export const startDelay = 2000;
 export const displayAmount = 10;
 

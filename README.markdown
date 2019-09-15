@@ -1,3 +1,5 @@
+# Memory Card Game
+
 Memory card game made with reactJS and redux.
 
 To run locally:
